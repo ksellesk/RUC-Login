@@ -1,5 +1,5 @@
 # RUC-Login
-Python scripts for loging ruc campus network.
+Python scripts for logging in to the RUC campus network.
 
 
 ## Usage
